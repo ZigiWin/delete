@@ -43,3 +43,29 @@ nav ul li {
     margin: 159px 0 46px 138px;
     width: 467px;
 }
+.button-header {
+    margin-left: 138px;
+    font-size: 14px;
+    font-weight: 500;
+    background: #25252C;
+    border-radius: 50px;
+    width: 255px;
+    display: flex;
+    align-items: center;
+    padding: 24px 48px;
+}
+
+.button-header:before {
+    margin-top: 3px;
+    margin-right: 10px;
+    content: url("./arrow-right.svg");
+}
+
+.clock-text {
+    position: absolute;
+    bottom: 22px;
+    right: 138px;
+    background: url("./Group\ 2.png");
+    width: 227px;
+    height: 227px;
+}
