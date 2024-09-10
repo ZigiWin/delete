@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: relative;
+    color: white;
+    font-family: "Golos Text", sans-serif;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    background: url("./background.png") no-repeat;
+    background-size: cover;
+    aspect-ratio: 7/4;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+nav {
+    padding: 42px 52px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+}
+
+nav ul li {
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 400;
+}
