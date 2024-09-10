@@ -69,3 +69,72 @@ nav ul li {
     width: 227px;
     height: 227px;
 }
+.fon{
+    background-color: #1E262F;
+    background-size: cover;
+    aspect-ratio: 7/3.7;
+    display: flex;
+}
+.o-comp{
+    margin-top: 342px;
+    margin-left: 206px;
+    margin-right: 159px ;
+
+
+}
+.title-co{
+    width:189px ;
+    color: white;
+    font-family: "Inetr", sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    padding-bottom: 16px;
+}
+.text-co{
+    color:white;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: "Inter", sans-serif;
+    opacity: 25%;
+    padding-bottom: 16px ;
+
+
+}
+.text-company{
+    color: #ffffff;
+    font-family: "Oranienbaum";
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 63.28px;
+    opacity: 80%;
+    margin-top: 231px;
+    
+}
+.title-opis{
+    font-family: "Inter",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 18.24px;
+    color: #ffffff;
+    opacity: 80%;
+}
+
+.text-opis{
+    font-family: "Inter",sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 18.24px;
+    color: #ffffff;
+    opacity: 80%;
+
+}
+.img-co{
+    width:376px ;
+    height:212px ;
+    background:url(./Rectangle\ 7.png) ;
+    margin-top:174px ;
+    margin-left: 80px;
+}
+.opis{
+    display: flex;
+}
